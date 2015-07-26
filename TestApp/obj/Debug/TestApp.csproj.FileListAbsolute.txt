@@ -1,0 +1,8 @@
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\obj\Debug\TestApp.MainForm.resources
+D:\Dropbox\Test\C#\Test\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
